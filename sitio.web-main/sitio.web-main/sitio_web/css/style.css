@@ -2,11 +2,12 @@ body {
     margin: 0em;
 }
 .cover{
+    
 height: 400px;
-background-image:url("C:/Users/ALUMNOS/Desktop/sitio.web-main/sitio.web-main/sitio_web/img/portada.jpg") ;
-color: rgb(0, 0, 0);
+background-image: url("C:/Users/LAB-E/Desktop/sitio_web/img/portada.jpeg");
+color: white;
 background-size: cover;
-background-position: center;
-background-color: rgb (0,0,0,0.5);
+background-position:center;
+background-color: rgb(0,0,0,0.5);
 background-blend-mode: darken;
 }
